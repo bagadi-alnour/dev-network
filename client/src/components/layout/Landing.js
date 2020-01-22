@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 const Landing = ({ isAuthenticated }) => {
   if (isAuthenticated) {
-    return <Redirect to="/dashboard" />;
+    return <Redirect to="profiles" />;
   }
   return (
     <section className="landing">
