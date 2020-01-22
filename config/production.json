@@ -1,0 +1,6 @@
+{
+   "mongoURI":"mongodb+srv://bgaato:Work_2020@portfolio-ceyoc.mongodb.net/dev_network?retryWrites=true&w=majority",
+   "jwt_secret":"my_secret_token",
+   "githubClientId":"6b17d79d63d791675f2f",
+   "githubSecret":"170e5d541d8c8526d6e6a0bda3ab29a3e8c40c4b"
+}
