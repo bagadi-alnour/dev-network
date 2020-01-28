@@ -17,7 +17,7 @@ const Login = ({ login, isAuthenticated }) => {
   };
 
   if (isAuthenticated) {
-    return <Redirect to="/" />;
+    return alert("Welcome");
   }
   return (
     <Fragment>
